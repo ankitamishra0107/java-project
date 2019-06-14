@@ -1,7 +1,7 @@
 package com.mkyong.hashing;
 
 /**
- * Hello world! 
+ * Hello world today! 
  *
  */
 public class App 
